@@ -3957,6 +3957,7 @@ class Dataset(
                 - Uses :py:func:`scipy.interpolate.interpn` for methods {"linear", "nearest", "slinear",
                     "cubic", "quintic", "pchip"}.
 
+        See Also
         --------
         scipy.interpolate.interp1d
         scipy.interpolate.interpn
